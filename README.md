@@ -14,25 +14,26 @@ Este projeto realiza uma análise exploratória dos dados da empresa fictícia *
 - Indivíduos com 65 anos ou mais têm maior propensão à evasão.
 - Gênero não influencia significativamente o churn.
 
-![Perfil Demográfico](images/perfil_demografico.png)
+![Perfil Demográfico](imagens/perfil_demografico.png)
 
 ### 📄 Evasão por Tipo de Contrato
 - Contratos **Anual** e **Bienal** apresentam maior fidelização.
 - Contratos **Mensais** têm maior risco de cancelamento.
 
-![Tipo de Contrato](images/tipo_contrato.png)
+![Tipo de Contrato](imagens/Evasao_tipocontrato.png)
 
-### 📈 Evasão por Tempo de Contrato
+## 📊 Gráfico Interativo: Evasão por Tempo de Contrato
 - A evasão é mais intensa nos primeiros meses, especialmente no 1º.
 - A partir do 12º mês, a taxa se estabiliza abaixo da média de 22,01%.
 
-![Tempo de Contrato](images/tempo_contrato.png)
+Você pode visualizar o gráfico interativo diretamente pelo GitHub Pages:
+
 
 ### 💳 Forma de Pagamento
 - Cartão de crédito, transferência bancária e cheque enviado → alta retenção.
 - Cheque eletrônico → taxa de evasão de 45,3%, indicando menor engajamento.
 
-![Forma de Pagamento](images/forma_pagamento.png)
+![Forma de Pagamento](imagens/Proporcaoevasao_formapagamento.png)
 
 ---
 
