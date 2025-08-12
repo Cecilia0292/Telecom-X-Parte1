@@ -26,8 +26,8 @@ Este projeto realiza uma análise exploratória dos dados da empresa fictícia *
 - A evasão é mais intensa nos primeiros meses, especialmente no 1º.
 - A partir do 12º mês, a taxa se estabiliza abaixo da média de 22,01%.
 
-Você pode visualizar o gráfico interativo diretamente pelo GitHub Pages:
-
+👉 Você pode visualizar o gráfico interativo diretamente pelo GitHub Pages:
+🔗 [Acesse o gráfico interativo aqui](https://cecilia0292.github.io/Telecom-X-Parte1/))
 
 ### 💳 Forma de Pagamento
 - Cartão de crédito, transferência bancária e cheque enviado → alta retenção.
